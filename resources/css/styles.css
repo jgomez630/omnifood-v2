@@ -145,8 +145,21 @@ h2:after {
 	border-bottom: 2px solid #e67e22;
 }
 
-/* FEATURES */
-.section-features {
-
+/* MEALS */
+.meals-showcase {
+	list-style: none;
+	width: 100%;
+}
+.meals-showcase li {
+	display: block;
+	float: left;
+	width: 25%;
+}
+.meal-photo img{
+	width: 100%;
+	margin: 0;
+	height: auto;
 }
 
+/* FEATURES */
+.section-features {}
